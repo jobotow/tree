@@ -41,3 +41,14 @@ Root
 └── Branch 2
     └── Leaf 3
 ```
+
+## Use Cases
+- Filesystem trees
+- Dependency graphs
+- Any thing that needs output in hierachical form.
+
+## LICENSE
+Apache 2.0
+
+
+
