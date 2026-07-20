@@ -3,7 +3,7 @@ A simple, zero dependency go library for rendering tree structures on the termin
 
 ## Installation
 ```bash
-go get github.com/jobotow/tree
+go get codeberg.org/jobotow/tree
 ```
 
 ## Usage
