@@ -1,5 +1,5 @@
 # tree
-A simple, zero dependency go library for rendering tree structures on the terminal.
+A simple go library for rendering tree structures on the terminal.
 
 ## Installation
 ```bash
